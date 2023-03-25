@@ -1,7 +1,7 @@
 # College Website
 ### Welcome to the new official website project of SLIET. 
 
-
+###Link: https://sintu009.github.io/pixel_wizard/
 
 #### Navigation Scheme
 * Institute
